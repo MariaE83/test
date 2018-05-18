@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://www.netbeans.org/ns/project/1">
-    <type>org.netbeans.modules.php.project</type>
-    <configuration>
-        <data xmlns="http://www.netbeans.org/ns/php-project/1">
-            <name>gaestebuch</name>
-        </data>
-    </configuration>
-</project>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>Test</div>
+    </body>
+</html>
+
